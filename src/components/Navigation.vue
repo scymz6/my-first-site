@@ -18,6 +18,12 @@
       active-class="font-bold bg-slate-50"
       ><Icon icon="solar:star-bold-duotone" />我的兴趣</router-link
     >
+    <router-link
+      to="/social"
+      class="py-1 px-2 bg-transparent hover:bg-slate-100 rounded-lg flex flex-row items-center gap-1"
+      active-class="font-bold bg-slate-50"
+      ><Icon icon="ri:share-line" />社交媒体</router-link
+    >
   </Row>
 </template>
 
