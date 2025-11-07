@@ -11,10 +11,7 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    Col: typeof import('./src/components/helper/Col.vue')['default']
     Column: typeof import('./src/components/helper/Column.vue')['default']
-    FlexCol: typeof import('./src/components/helper/Column.vue')['default']
-    FlexRow: typeof import('./src/components/helper/Row.vue')['default']
     Grid: typeof import('./src/components/helper/Grid.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
