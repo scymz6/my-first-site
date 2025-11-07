@@ -28,7 +28,7 @@
       直接修改 <h2> 标签中的文字
       可以是中文、英文或中英文结合
       -->
-      <h2 class="text-4xl font-bold text-gray-800">肖遥 Hunter Xiao</h2>
+      <h2 class="text-4xl font-bold text-gray-900">zmy-</h2>
 
       <!-- 
       ❗️ 修改个人简介：
@@ -68,8 +68,8 @@
       -->
       <Row align="left">
         <div class="text-center w-12">
-          <div class="text-2xl mb-2">📑</div>
-          <p class="text-gray-700">学习</p>
+          <div class="text-2xl mb-2">⚽</div>
+          <p class="text-gray-700">足球</p>
         </div>
         <div class="text-center w-12">
           <div class="text-2xl mb-2">💻</div>

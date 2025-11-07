@@ -20,7 +20,7 @@
       <h2 class="text-4xl font-bold text-gray-800">兴趣爱好</h2>
 
       <!-- ❗️ 修改页面副标题 -->
-      <p class="text-xl text-gray-600">生活不止眼前的代码，还有诗和远方</p>
+      <p class="text-xl text-gray-600">生活不止眼前的代码，还有诗和诗</p>
     </div>
 
     <!-- 
@@ -70,7 +70,7 @@
           <div class="text-4xl mb-3">🎮</div>
           <h4 class="text-xl font-bold text-gray-800 mb-2">电子游戏</h4>
           <p class="text-gray-700">
-            喜欢各种类型的游戏，从策略游戏到动作冒险，游戏是放松和娱乐的好方式。
+            喜欢各种类型的游戏，从策略游戏到fps，游戏是放松和娱乐的好方式。
           </p>
         </div>
 
@@ -78,7 +78,7 @@
         <div class="bg-white p-3 rounded-2xl">
           <div class="text-4xl mb-3">📚</div>
           <h4 class="text-xl font-bold text-gray-800 mb-2">阅读</h4>
-          <p class="text-gray-700">喜欢阅读技术书籍和科幻小说，通过阅读不断充实自己，拓展视野。</p>
+          <p class="text-gray-700">喜欢阅读科幻小说，通过阅读不断充实自己，拓展视野。</p>
         </div>
 
         <!-- 卡片 4 -->
@@ -116,10 +116,10 @@
     -->
     <div class="bg-linear-to-r from-indigo-50 to-purple-50 p-8 rounded-2xl text-center mb-8">
       <!-- ❗️ 修改座右铭文字 -->
-      <p class="text-2xl font-light text-gray-700 italic">"Stay hungry, stay foolish."</p>
+      <p class="text-2xl font-light text-gray-700 italic">"Stay hungry, stay hungry."</p>
 
       <!-- ❗️ 修改作者 -->
-      <p class="text-gray-500 mt-2">— Steve Jobs</p>
+      <p class="text-gray-500 mt-2">— zmy</p>
     </div>
   </div>
 </template>

@@ -21,6 +21,12 @@ const router = createRouter({
       meta: { title: '爱好' },
       component: () => import('../views/FavoriteView.vue'),
     },
+    {
+      path: '/social',
+      name: 'social',
+      meta: { title: '社交媒体' },
+      component: () => import('../views/SocialView.vue'),
+    },
   ],
 })
 
